@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Chaste Djaziri! 👋
 
-<!--
-**Djsensei1/Djsensei1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **developer & entrepreneur**, passionate about building innovative tech solutions that make an impact. I'm currently working on **Traversa**, a transport management app, and leading **Mirror Corporation (Micorp)**, a technology-driven company specializing in **SMM, SEO, and cybersecurity**.
 
-Here are some ideas to get you started:
+## 🚀 What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 **Full-Stack Development** – React, Next.js, Expo (React Native), TypeScript, PostgreSQL, Firebase
+- 🛠️ **Entrepreneurship** – Founder of [Mirror Corporation (Micorp)](https://micorp.pro)
+- 🔍 **SEO & Digital Marketing** – Helping businesses grow their online presence
+- 🔗 **Cybersecurity** – Creating a **link verification platform** to ensure safer web experiences
+
+## 📌 Projects
+
+- **[Traversa](https://micorp.pro)** – A mobile app for transport management, including shipping, bus, and bike bookings.
+- **[Mirror Movies](https://watch.micorp.pro)** – A movie streaming platform.
+- **Micorp Verification Service** – A tool to verify and secure shared links online.
+
+## 📫 Connect with Me
+
+- 🌐 Portfolio: [chastedjaziri.micorp.pro](https://chastedjaziri.micorp.pro)
+- 📧 Email: [habimanahirwa@gmail.com](mailto\:habimanahirwa@gmail.com)
+- 🏢 Business: [micorp.pro](https://micorp.pro)
+
+Let's collaborate and create something amazing! 🚀
+
