@@ -21,5 +21,8 @@ I'm a **developer & entrepreneur**, passionate about building innovative tech so
 - 📧 Email: [habimanahirwa@gmail.com](mailto\:habimanahirwa@gmail.com)
 - 🏢 Business: [micorp.pro](https://micorp.pro)
 
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Djsensei1&show_icons=true&theme=dark)
+
 Let's collaborate and create something amazing! 🚀
 
