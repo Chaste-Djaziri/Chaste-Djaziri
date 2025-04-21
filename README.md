@@ -22,7 +22,9 @@ I'm a **developer & entrepreneur**, passionate about building innovative tech so
 - 🏢 Business: [micorp.pro](https://micorp.pro)
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Djsensei1&show_icons=true&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chaste-Djaziri&show_icons=true&theme=dark)
+
+[![committers.top badge](https://user-badge.committers.top/rwanda_private/Chaste-Djaziri.svg)](https://user-badge.committers.top/rwanda_private/Chaste-Djaziri)
 
 Let's collaborate and create something amazing! 🚀
 
