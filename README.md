@@ -12,7 +12,7 @@ I'm a **developer & entrepreneur**, passionate about building innovative tech so
 ## 📌 Projects
 
 - **[Traversa](https://micorp.pro)** – A mobile app for transport management, including shipping, bus, and bike bookings.
-- **[Mirror Movies](https://watch.micorp.pro)** – A movie streaming platform.
+- **[NepoFlix](https://nepoflix.micorp.pro)** – A movie & anime streaming platform.
 - **Micorp Verification Service** – A tool to verify and secure shared links online.
 
 ## 📫 Connect with Me
