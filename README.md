@@ -27,7 +27,7 @@ I'm a **developer & entrepreneur**, passionate about building innovative tech so
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chaste-Djaziri&theme=gotham&hide_border=false&include_all_commits=false)<br/>
 
 ![](https://komarev.com/ghpvc/?username=Chaste-Djaziri&abbreviated=true)
-[![committers.top badge](https://user-badge.committers.top/rwanda/Chaste-Djaziri.svg)](https://user-badge.committers.top/rwanda/Chaste-Djaziri)
+[![committers.top badge](https://user-badge.committers.top/rwanda_private/Chaste-Djaziri.svg)](https://user-badge.committers.top/rwanda_private/Chaste_Djaziri)
 
 Let's collaborate and create something amazing! 🚀
 
