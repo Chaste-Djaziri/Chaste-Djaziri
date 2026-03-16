@@ -24,7 +24,7 @@ I'm a **developer & entrepreneur**, passionate about building innovative tech so
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chaste-Djaziri&show_icons=true&theme=dark)
 ![](https://nirzak-streak-stats.vercel.app/?user=Chaste-Djaziri&theme=gotham&hide_border=true)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chaste-Djaziri&theme=gotham&hide_border=false&include_all_commits=false)<br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chaste-Djaziri&theme=gotham&hide_border=false&include_all_commits=true)<br/>
 
 ![](https://komarev.com/ghpvc/?username=Chaste-Djaziri&abbreviated=true)
 [![committers.top badge](https://user-badge.committers.top/rwanda_private/Chaste-Djaziri.svg)](https://user-badge.committers.top/rwanda_private/Chaste-Djaziri)
