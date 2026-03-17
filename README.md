@@ -22,8 +22,9 @@ I'm a **developer & entrepreneur**, passionate about building innovative tech so
 - 🏢 Business: [micorp.pro](https://micorp.pro)
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chaste-Djaziri&show_icons=true&theme=dark)
-![](https://nirzak-streak-stats.vercel.app/?user=Chaste-Djaziri&theme=gotham&hide_border=true)
+![chaste-djaziri's Stats](https://github-readme-stats.vercel.app/api?username=chaste-djaziri&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![chaste-djaziri's Streak](https://github-readme-streak-stats.herokuapp.com/?user=chaste-djaziri&theme=vue-dark&hide_border=true)
+![chaste-djaziri's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaste-djaziri&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chaste-Djaziri&theme=gotham&hide_border=false&include_all_commits=true)<br/>
 
 ![](https://komarev.com/ghpvc/?username=Chaste-Djaziri&abbreviated=true)
