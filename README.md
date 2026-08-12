@@ -65,6 +65,7 @@ Outside coding, I’m also into **piano**, **drawing**, **skating**, and creativ
 <p align="center">
   <a href="https://user-badge.committers.top/rwanda_private/Chaste-Djaziri">
     <img src="https://user-badge.committers.top/rwanda_private/Chaste-Djaziri.svg" alt="committers.top Rwanda private badge" />
+    [![committers.top badge](https://user-badge.committers.top/rwanda_private/Chaste-Djaziri.svg)](https://user-badge.committers.top/rwanda_private/Chaste-Djaziri)
   </a>
 </p>
 
