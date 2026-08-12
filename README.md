@@ -2,11 +2,11 @@
 
 <div align="center">
 
-# Chaste Djaziri
+# Hey there, I'm Chaste Djaziri 👋
 
 ### Software Developer · Product Builder · Creative Technologist
 
-Building polished web, mobile, SaaS and AI-powered products from Rwanda.
+I enjoy turning ideas into polished **web, mobile, SaaS and AI-powered products** — with equal attention to engineering, design and the people using them.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-chastedjaziri.micorp.pro-0A66C2?style=for-the-badge&logo=safari&logoColor=white)](https://chastedjaziri.micorp.pro)
 [![GitHub](https://img.shields.io/badge/GitHub-Chaste--Djaziri-181717?style=for-the-badge&logo=github)](https://github.com/Chaste-Djaziri)
@@ -14,31 +14,34 @@ Building polished web, mobile, SaaS and AI-powered products from Rwanda.
 
 <br />
 
+![Profile Views](https://komarev.com/ghpvc/?username=Chaste-Djaziri&label=Profile%20Views&style=flat-square)
 [![committers.top badge](https://user-badge.committers.top/rwanda/Chaste-Djaziri.svg)](https://user-badge.committers.top/rwanda/Chaste-Djaziri)
 
 </div>
 
 ---
 
-## About Me
+## 👨‍💻 A Little About Me
 
-I'm **Chaste Djaziri**, a software developer and product builder focused on turning ideas into practical, scalable digital products.
+I'm **Chaste Djaziri**, a software developer from Rwanda who enjoys building things that are useful, thoughtful and enjoyable to use.
 
-My work spans **full-stack web development, native and cross-platform mobile applications, SaaS platforms, backend systems, product UI/UX, cloud infrastructure and AI-powered experiences**.
+I work across **full-stack web development, native and cross-platform mobile apps, SaaS platforms, backend systems, product UI/UX, cloud infrastructure and AI-powered experiences**.
 
-I care about products that are not only technically solid, but also intuitive, visually refined and useful in the real world.
+What I enjoy most is the full product journey: taking an idea, figuring out how it should work, designing the experience, engineering the system and eventually seeing people use it.
 
-Outside software, I’m a **pianist, artist and skater** — interests that strongly influence how I think about creativity, motion, detail and user experience.
+When I'm away from the keyboard, you'll probably find me playing **piano**, **drawing**, **skating**, or experimenting with another creative idea. 🎹 🎨 🛼
+
+> I like technology that feels human — powerful underneath, simple on the surface.
 
 ---
 
-## What I Build
+## 🚀 What I Build
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Web & SaaS
+### 🌐 Web & SaaS
 - Full-stack web applications
 - Multi-tenant SaaS platforms
 - Dashboards and admin systems
@@ -49,7 +52,7 @@ Outside software, I’m a **pianist, artist and skater** — interests that stro
 </td>
 <td width="50%" valign="top">
 
-### Mobile & Product
+### 📱 Mobile & Product
 - Native iOS applications with SwiftUI
 - Cross-platform apps with React Native / Expo
 - Offline-first product experiences
@@ -62,7 +65,7 @@ Outside software, I’m a **pianist, artist and skater** — interests that stro
 <tr>
 <td width="50%" valign="top">
 
-### Backend & Infrastructure
+### ⚙️ Backend & Infrastructure
 - Node.js / Express services
 - PostgreSQL database architecture
 - Supabase and Neon integrations
@@ -73,7 +76,7 @@ Outside software, I’m a **pianist, artist and skater** — interests that stro
 </td>
 <td width="50%" valign="top">
 
-### AI & Creative Technology
+### ✨ AI & Creative Technology
 - AI-enabled application features
 - LLM integrations and AI workflows
 - Streaming conversational interfaces
@@ -87,7 +90,7 @@ Outside software, I’m a **pianist, artist and skater** — interests that stro
 
 ---
 
-## Tech Stack
+## 🧰 Tech Stack
 
 ### Languages
 
@@ -119,28 +122,31 @@ Outside software, I’m a **pianist, artist and skater** — interests that stro
 
 ---
 
-## Selected Product Areas
+## 🧩 Things I've Built Around
 
-I’ve worked across products and platforms involving:
+My projects cover a fairly wide range of product spaces:
 
 `SaaS` · `Streaming` · `Social Platforms` · `Education` · `Transport` · `Restaurant Systems` · `Messaging` · `Tourism` · `AI Tools` · `Business Platforms`
 
-Some of my active and past projects include **Traversa, Restrofy, NepoFlix, AniNest, Picksy, Veil, Unspoken, Lyrica** and platforms developed under **Mirror Corporation**.
+Some of the products I've worked on include **Traversa, Restrofy, NepoFlix, AniNest, Picksy, Veil, Unspoken, Lyrica** and other platforms developed through **Mirror Corporation**.
+
+I enjoy experimenting across different industries because every product comes with a different engineering and design problem to solve.
 
 ---
 
-## Current Focus
+## 🎯 What I'm Focused On Right Now
 
 - Shipping production-ready full-stack and mobile products
 - Building scalable SaaS and platform architecture
-- Advancing native iOS development with **SwiftUI**
+- Going deeper into native iOS development with **SwiftUI**
 - Building with **AI models, agents and intelligent application workflows**
 - Creating refined interfaces with strong motion and interaction design
 - Developing technology and digital products through **Mirror Corporation**
+- Learning continuously and turning what I learn into real products
 
 ---
 
-## GitHub Activity
+## 📊 GitHub Activity
 
 <div align="center">
 
@@ -153,7 +159,7 @@ Some of my active and past projects include **Traversa, Restrofy, NepoFlix, AniN
 
 <br />
 
-### 🇷🇼 GitHub Activity in Rwanda
+### 🇷🇼 Active on GitHub from Rwanda
 
 [![committers.top badge](https://user-badge.committers.top/rwanda/Chaste-Djaziri.svg)](https://user-badge.committers.top/rwanda/Chaste-Djaziri)
 
@@ -163,13 +169,14 @@ Some of my active and past projects include **Traversa, Restrofy, NepoFlix, AniN
 
 ---
 
-## Principles
+## 💭 How I Like to Work
 
 ```text
+Stay curious.
 Build useful things.
-Design them well.
-Engineer them to scale.
-Keep learning.
+Design with people in mind.
+Engineer for tomorrow.
+Keep improving.
 Ship.
 ```
 
@@ -177,9 +184,15 @@ Ship.
 
 <div align="center">
 
-### Let's build something meaningful.
+### Thanks for stopping by! 👋
+
+If you're working on something interesting, exploring an idea, or just want to talk technology and product building, feel free to check out my work and connect.
 
 [Portfolio](https://chastedjaziri.micorp.pro) · [Mirror Corporation](https://micorp.pro) · [GitHub](https://github.com/Chaste-Djaziri)
+
+<br />
+
+![Profile Views](https://komarev.com/ghpvc/?username=Chaste-Djaziri&label=Visitors&style=flat-square)
 
 <br />
 
