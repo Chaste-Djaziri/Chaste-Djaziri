@@ -2,200 +2,69 @@
 
 <div align="center">
 
-# Hey there, I'm Chaste Djaziri 👋
+# Hey, I'm Chaste 👋
 
-### Software Developer · Product Builder · Creative Technologist
+**Software Developer · Product Builder · Creative**
 
-I enjoy turning ideas into polished **web, mobile, SaaS and AI-powered products** — with equal attention to engineering, design and the people using them.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-chastedjaziri.micorp.pro-0A66C2?style=for-the-badge&logo=safari&logoColor=white)](https://chastedjaziri.micorp.pro)
-[![GitHub](https://img.shields.io/badge/GitHub-Chaste--Djaziri-181717?style=for-the-badge&logo=github)](https://github.com/Chaste-Djaziri)
-[![MiCorp](https://img.shields.io/badge/Mirror_Corporation-micorp.pro-111827?style=for-the-badge)](https://micorp.pro)
+I'm currently focused on building **LaterBox** — a fast, offline-first place to save links, text, files, videos, and ideas now, then come back to them later.
 
 <br />
 
-![Profile Views](https://komarev.com/ghpvc/?username=Chaste-Djaziri&label=Profile%20Views&style=flat-square)
-[![committers.top badge](https://user-badge.committers.top/rwanda/Chaste-Djaziri.svg)](https://user-badge.committers.top/rwanda/Chaste-Djaziri)
+<a href="https://laterbox.dev"><strong>Open LaterBox</strong></a> ·
+<a href="https://github.com/Chaste-Djaziri/laterbox"><strong>Source</strong></a> ·
+<a href="https://docs.laterbox.dev"><strong>Docs</strong></a> ·
+<a href="https://status.laterbox.dev"><strong>Status</strong></a>
+
+<br /><br />
+
+[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/2w0v6.svg)](https://status.laterbox.dev/)
 
 </div>
 
 ---
 
-## 👨‍💻 A Little About Me
+## 📦 Building LaterBox
 
-I'm **Chaste Djaziri**, a software developer from Rwanda who enjoys building things that are useful, thoughtful and enjoyable to use.
+> **Save anything now. Read, watch & organize later.**
 
-I work across **full-stack web development, native and cross-platform mobile apps, SaaS platforms, backend systems, product UI/UX, cloud infrastructure and AI-powered experiences**.
+LaterBox is my current main project: a cross-platform save-for-later app designed around **quick capture, offline reliability, and automatic cloud sync**.
 
-What I enjoy most is the full product journey: taking an idea, figuring out how it should work, designing the experience, engineering the system and eventually seeing people use it.
+- ⚡ Capture from desktop shortcuts, mobile share sheets, and browser extensions
+- 🔄 Offline-first local storage with cloud synchronization
+- 📖 Clean reading, notes, search, collections, and media previews
+- 💻 Built for web, macOS, Windows, Linux, iOS, Android, Chrome, Firefox, and Safari
+- 🔐 Supabase-backed authentication, storage, database, and Edge Functions
 
-When I'm away from the keyboard, you'll probably find me playing **piano**, **drawing**, **skating**, or experimenting with another creative idea. 🎹 🎨 🛼
+**Stack:** `Flutter` · `Dart` · `Next.js` · `TypeScript` · `Supabase` · `PostgreSQL` · `Cloudflare`
 
-> I like technology that feels human — powerful underneath, simple on the surface.
-
----
-
-## 🚀 What I Build
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 Web & SaaS
-- Full-stack web applications
-- Multi-tenant SaaS platforms
-- Dashboards and admin systems
-- Authentication and role-based access
-- Realtime and data-driven interfaces
-- API integrations and payment flows
-
-</td>
-<td width="50%" valign="top">
-
-### 📱 Mobile & Product
-- Native iOS applications with SwiftUI
-- Cross-platform apps with React Native / Expo
-- Offline-first product experiences
-- Maps, media and realtime features
-- Product architecture and UI systems
-- App deployment and release workflows
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚙️ Backend & Infrastructure
-- Node.js / Express services
-- PostgreSQL database architecture
-- Supabase and Neon integrations
-- Prisma ORM
-- Redis and background workflows
-- Cloudflare, Vercel, Railway and VPS deployments
-
-</td>
-<td width="50%" valign="top">
-
-### ✨ AI & Creative Technology
-- AI-enabled application features
-- LLM integrations and AI workflows
-- Streaming conversational interfaces
-- Creative web interactions and motion
-- GSAP / Framer Motion experiences
-- Product prototyping and interface design
-
-</td>
-</tr>
-</table>
-
----
-
-## 🧰 Tech Stack
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,swift,html,css" alt="Languages" />
+<p align="center">
+  <a href="https://laterbox.dev"><strong>🌐 laterbox.dev</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/Chaste-Djaziri/laterbox"><strong>⭐ View the project</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://laterbox.dev/download"><strong>⬇️ Downloads</strong></a>
 </p>
 
-### Frontend & Mobile
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,swift,figma" alt="Frontend and Mobile" />
-</p>
-
-**Also:** React Native · Expo · SwiftUI · shadcn/ui · GSAP · Framer Motion
-
-### Backend & Data
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,supabase,postgres,prisma,mongodb,redis" alt="Backend and Data" />
-</p>
-
-### Cloud, DevOps & Tooling
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cloudflare,vercel,docker,git,github,vscode" alt="Cloud and Tooling" />
-</p>
-
-**Also:** Railway · Cloudinary · REST APIs · OAuth · CI/CD · Linux / VPS
-
 ---
 
-## 🧩 Things I've Built Around
+## 👨‍💻 A bit about me
 
-My projects cover a fairly wide range of product spaces:
+I like taking products from **idea → design → engineering → shipping**. I work across web, mobile, backend systems, cloud infrastructure, and product UI/UX.
 
-`SaaS` · `Streaming` · `Social Platforms` · `Education` · `Transport` · `Restaurant Systems` · `Messaging` · `Tourism` · `AI Tools` · `Business Platforms`
+Outside coding, I'm usually playing **piano**, **drawing**, or **skating**. 🎹 🎨 🛼
 
-Some of the products I've worked on include **Traversa, Restrofy, NepoFlix, AniNest, Picksy, Veil, Unspoken, Lyrica** and other platforms developed through **Mirror Corporation**.
-
-I enjoy experimenting across different industries because every product comes with a different engineering and design problem to solve.
-
----
-
-## 🎯 What I'm Focused On Right Now
-
-- Shipping production-ready full-stack and mobile products
-- Building scalable SaaS and platform architecture
-- Going deeper into native iOS development with **SwiftUI**
-- Building with **AI models, agents and intelligent application workflows**
-- Creating refined interfaces with strong motion and interaction design
-- Developing technology and digital products through **Mirror Corporation**
-- Learning continuously and turning what I learn into real products
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Chaste-Djaziri&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chaste-Djaziri&theme=github_dark" alt="GitHub Stats" />
-
-<br />
-
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chaste-Djaziri&theme=github_dark" alt="GitHub Contribution Graph" />
-
-<br />
-
-### 🇷🇼 Active on GitHub from Rwanda
-
-[![committers.top badge](https://user-badge.committers.top/rwanda/Chaste-Djaziri.svg)](https://user-badge.committers.top/rwanda/Chaste-Djaziri)
-
-<sub>Public activity badge from committers.top's ranking of active GitHub users in Rwanda.</sub>
-
-</div>
-
----
-
-## 💭 How I Like to Work
-
-```text
-Stay curious.
-Build useful things.
-Design with people in mind.
-Engineer for tomorrow.
-Keep improving.
-Ship.
-```
+I also build and experiment with other digital products through [**Mirror Corporation**](https://micorp.pro).
 
 ---
 
 <div align="center">
 
-### Thanks for stopping by! 👋
+### Let's build useful things.
 
-If you're working on something interesting, exploring an idea, or just want to talk technology and product building, feel free to check out my work and connect.
-
-[Portfolio](https://chastedjaziri.micorp.pro) · [Mirror Corporation](https://micorp.pro) · [GitHub](https://github.com/Chaste-Djaziri)
+[Portfolio](https://chastedjaziri.micorp.pro) · [LaterBox](https://laterbox.dev) · [GitHub](https://github.com/Chaste-Djaziri)
 
 <br />
 
-![Profile Views](https://komarev.com/ghpvc/?username=Chaste-Djaziri&label=Visitors&style=flat-square)
-
-<br />
-
-<sub>Software Developer • Pianist • Artist • Skater</sub>
+![Profile Views](https://komarev.com/ghpvc/?username=Chaste-Djaziri&label=Profile%20views&style=flat-square)
 
 </div>
