@@ -18,6 +18,8 @@ I'm currently focused on building **LaterBox** — a fast, offline-first place t
 <br /><br />
 
 [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/2w0v6.svg)](https://status.laterbox.dev/)
+![Profile Views](https://komarev.com/ghpvc/?username=Chaste-Djaziri&label=Profile%20Views&style=flat-square)
+[![committers.top badge](https://user-badge.committers.top/rwanda/Chaste-Djaziri.svg)](https://user-badge.committers.top/rwanda/Chaste-Djaziri)
 
 </div>
 
@@ -47,6 +49,27 @@ LaterBox is my current main project: a cross-platform save-for-later app designe
 
 ---
 
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Chaste-Djaziri&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chaste-Djaziri&theme=github_dark" alt="GitHub Stats" />
+
+<br />
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chaste-Djaziri&theme=github_dark" alt="GitHub Contribution Graph" />
+
+<br /><br />
+
+### 🇷🇼 Active on GitHub from Rwanda
+
+[![committers.top badge](https://user-badge.committers.top/rwanda/Chaste-Djaziri.svg)](https://user-badge.committers.top/rwanda/Chaste-Djaziri)
+
+</div>
+
+---
+
 ## 👨‍💻 A bit about me
 
 I like taking products from **idea → design → engineering → shipping**. I work across web, mobile, backend systems, cloud infrastructure, and product UI/UX.
@@ -65,6 +88,10 @@ I also build and experiment with other digital products through [**Mirror Corpor
 
 <br />
 
-![Profile Views](https://komarev.com/ghpvc/?username=Chaste-Djaziri&label=Profile%20views&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Chaste-Djaziri&label=Visitors&style=flat-square)
+
+<br />
+
+<sub>Software Developer • Pianist • Artist • Skater</sub>
 
 </div>
