@@ -53,7 +53,8 @@ LaterBox is my current main project: a cross-platform save-for-later app designe
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Chaste-Djaziri&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Chaste-Djaziri)](https://git.io/streak-stats)
+
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chaste-Djaziri&theme=github_dark" alt="GitHub Stats" />
 
 <br />
